@@ -1,0 +1,17 @@
+table{
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+    width:auto;
+    border: 1px solid;
+    border-collapse: collapse;
+    border-radius: 2px;
+}
+
+table, td, th{
+    border: 1px solid;
+}
+
+th, td{
+    padding: 25px;
+    text-align: center;
+}
